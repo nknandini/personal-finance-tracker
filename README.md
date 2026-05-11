@@ -55,7 +55,7 @@ pip install pandas numpy matplotlib scikit-learn
 ```
 3. Run the Python file:
 ```bash
-python finance_tracker.py
+python financetracker.py
 ```
 ## 🔮 Future Improvements
 - Interactive dashboard integration
